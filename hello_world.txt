@@ -1,2 +1,4 @@
 My first GitHub repo
-Hello Odin! Let's do it this time, baby!
+Hello Odin!
+Let's do it this time, baby!
+I can do this, I will do this, I've already started doing this, so what's the wait?
