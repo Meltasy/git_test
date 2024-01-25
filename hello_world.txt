@@ -1,0 +1,2 @@
+My first GitHub repo
+Hello Odin! Let's do it this time, baby!
